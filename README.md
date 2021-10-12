@@ -2,7 +2,7 @@
 
 Première année de bts sio.
 
-Premier programme en Java avec l'interface swing : Le Morpion (jdk 15)
+Programme en Java avec l'interface swing : Le Morpion (jdk 15)
 
 Martin HUBO
 
